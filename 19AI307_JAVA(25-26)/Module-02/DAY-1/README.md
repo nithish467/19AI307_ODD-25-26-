@@ -69,6 +69,9 @@ class prog {
 
 ## OUTPUT:
 
+<img width="600" height="390" alt="image" src="https://github.com/user-attachments/assets/e1cca25c-9cad-47b0-bfb9-71598f0122e1" />
+
+
 
 
 ## RESULT:
