@@ -24,8 +24,8 @@ To Implement a system where a Library contains multiple Book objects. Each Book 
 ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Ashish S
-RegisterNumber:  212224240017
+Developed by: NITHISHKUMAR S
+RegisterNumber:  212223240109
 */
 ```
 
